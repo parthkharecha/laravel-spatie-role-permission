@@ -1,4 +1,10 @@
-## About Laravel
+## Document 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such 
+This is test project for laravel role permisstion packeg 
+1)composer install 
+
+2)php artisan migrate --seed
+
+3)php artisan serve
+
 
